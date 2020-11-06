@@ -1,0 +1,28 @@
+1. Inicio
+2. Se pide el valor de 1 minuto
+3. Se pide el numero de minutos consumidos al mes.
+4. Se multiplica el valor de l minuto por el numero de minutos ingresados.
+5. Se presenta el resultado de la multiplicacion
+6. Fin
+-----------------------------------------------------------------
+
+1. Inicio
+
+// declaro las variables
+2. valordeMinuto, d[0, n]
+3. minutosConsumidos, i[0, n]
+4. consumoTotal, d[0, n]
+
+//pido los datos por teclado - entradas
+5. << "ingrese cuanto cuesta el minuto" 
+6. >> valor
+7. << "ingrese los minutos consumido"
+8. >> numero
+
+//proceso
+9. consumoTotal <-- valor * numero
+
+//salida
+10. Escribir "El valor total: " + consumototal  
+
+11. Fin 

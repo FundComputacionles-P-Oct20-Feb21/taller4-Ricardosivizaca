@@ -1,0 +1,30 @@
+1. Inicio
+2. Se ingresa el monto de el prestamo dado de un año plazo
+3. Se ingresa el valor de el interes mensual.
+4. Se divide el prestamo por el plazo dado y se suma el valor de el interes mensual
+5. Se presenta el pago mensual de el pestamo.
+6. Fin
+
+------------------------------------------------------------------
+
+1. Inicio
+
+// declaro las variables
+2. valorPrestamo, d[0, n]
+3. valorInteresmensual, i[0, n]
+4. plazoDado, i[12]
+5. pagoMensual, d[0, n]
+
+//pido los datos por teclado - entradas
+6. << "Ingrese el valor del prestamo" 
+7. >> valorPrestamo
+8. << "Ingrese el valor de interes mensual"
+9. >> valorInteresmensual
+
+//proceso
+11. pagoMensual <-- (valorPrestamo/plazoDado) + valorInteresmensual
+
+//salida
+12. << "Pago mensual: " + pagoMensual  
+
+13. Fin 

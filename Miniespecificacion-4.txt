@@ -1,0 +1,36 @@
+1. Inicio
+2. Se pide el CPU 
+3. Se pide el teclado
+4. Se pide el monitor
+5. Se pide el raton
+6. Se realiza la suma de CPU + teclado + monitor + raton 
+7. Se presenta en pantalla el total de la suma
+8. Fin
+
+--------------------------------------------------------------
+
+1. Inicio
+  // declaro las variables
+2. costoCPU, d[0, n]
+3. costoTeclado, d[0, n]
+4. costoMonitor, d[0, n]
+5. costoRaton, d[0, n]
+6. costoTotaldelacomputadora, d[0, n]
+
+//pido los datos por teclado - entradas
+7. << "Ingrese el costo de el CPU" 
+8. >> costoCPU 
+9. << "Ingrese el costo de el Teclado"
+10. >> costoTeclado
+11. << "Ingrese el costo de el Monitor"
+12. >> costoMonitor
+13. << "Ingrese el costo de el Raton"
+14. >> costoRaton
+
+//proceso
+12. costoTotaldelacomputadora <-- costoCPU + costoTeclado + costoMonitor + costoRaton
+
+//salida
+13. Escribir "Costo total de la computadora: " + costoTotaldelacomputadora  
+
+14. Fin 

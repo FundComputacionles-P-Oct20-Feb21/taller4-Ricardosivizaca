@@ -1,0 +1,27 @@
+1. Inicio
+2. Se pide que se ingrese la base
+3. Se pide que se ingres la altura
+4. Se realiza la opreacion de el área de un triangulo la base ingresada por la altura ingresada y se divide para dos
+5. Se presenta en pantalla el area del triangulo
+6. Fin
+---------------------------------------------------------------
+
+1. Inicio
+// declaro las variables
+2. base, d[0, n]
+3. altura, d[0, n]
+4. area, d[0, n]
+
+//pido los datos por teclado - entradas
+5. Ecribir "ingrese el valor de la base" 
+6. >> base
+7. Escribir "ingrese el valor de la altura"
+8. >> altura
+
+//proceso
+9. area <-- base * altura/2
+
+//salida
+10. Escribir "El area del triangulo :" + area 
+
+11. Fin 

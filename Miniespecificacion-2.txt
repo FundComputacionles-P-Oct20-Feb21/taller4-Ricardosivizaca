@@ -1,0 +1,31 @@
+1. Inicio
+2. Se pide gastos de el priemer hijo
+3. Se pide gastos de el segundo hijo
+4. Se pide gastos de el tercer hijo  
+5. Se realiza la suma de el primer hijo + segundo hijo + tercer hijo
+6. Se presenta en pantalla el resultado de la suma
+7. Fin
+-------------------------------------------------------------
+1. Inicio
+  // declaro las variables
+2. primerhijo, d[0, n]
+3. segundohijo, d[0, n]
+4. tercerhijo, d[0, n]
+5. gastostotales, d[0, n]
+
+//pido los datos por teclado - entradas
+6. Ecribir "ingrese el valor de e primer hijo" 
+7. >> primer hijo
+8. Escribir "ingrese el valor de el segundo hijo"
+9. >> segundo hijo
+10. Escribir "ingrese el valor de el tercer hijo"
+11. >> tercer hijo
+
+
+//proceso
+12. gastostotales <-- primerhijo + segundohijo + tercerhijo
+
+//salida
+13. Escribir "Los gastos totales de los tres hijos: " + gastostotales  
+
+14. Fin 
