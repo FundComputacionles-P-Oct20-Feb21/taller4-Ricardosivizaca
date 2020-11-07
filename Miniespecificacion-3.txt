@@ -15,9 +15,9 @@
 
 //pido los datos por teclado - entradas
 5. << "ingrese cuanto cuesta el minuto" 
-6. >> valor
+6. >> cosoto de el minuto
 7. << "ingrese los minutos consumido"
-8. >> numero
+8. >> minutos consumidos
 
 //proceso
 9. consumoTotal <-- valor * numero

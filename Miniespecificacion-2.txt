@@ -14,7 +14,7 @@
 5. gastostotales, d[0, n]
 
 //pido los datos por teclado - entradas
-6. Ecribir "ingrese el valor de e primer hijo" 
+6. Ecribir "ingrese el valor de el primer hijo" 
 7. >> primer hijo
 8. Escribir "ingrese el valor de el segundo hijo"
 9. >> segundo hijo
